@@ -6,6 +6,7 @@
 }
 body{
     display: grid;
+    font-family: 'Outfit', sans-serif;
 }
 .main{
     margin: auto;
