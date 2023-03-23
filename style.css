@@ -7,9 +7,12 @@ body{
     display: grid;
     font-family: 'Outfit', sans-serif;
 }
+.cover{
+    height: 100vh;
+    display: grid;
+}
 .main{
     margin: auto;
-    margin-top: 50px;
     background-color: white;
     display: grid;
     gap: 10px;
